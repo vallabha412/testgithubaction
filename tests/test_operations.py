@@ -6,4 +6,4 @@ def test_dd():
 
 def test_sub():
     assert sub(-1, 5) == -6
-    assert sub(5, -2) == 3
+    assert sub(5, -2) == 7
